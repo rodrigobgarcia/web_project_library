@@ -357,21 +357,22 @@
 
 .footer__column_content_hours {
   margin-left: auto;
-  h1 {
-    font-size: 16px;
-  }
+  
 }
 
 .footer__column_content_social {
   top: 0;
   right: 0;
-  h1 {
-    font-size: 16px;
-  }
+  
+}
+
+.footer__column_content_social h1, .footer__column_content_hours h1{
+  font-size: 16px;
+
 }
 
 .footer__logo {
-  size: 16px 20px;
+  resize: 16px 20px;
 }
 
 .footer__column-heading {
@@ -398,7 +399,7 @@
 }
 
 .footer__social-icon {
-  size: 16px 16px;
+  resize: 16px 16px;
   margin-right: 10px;
 }
 
