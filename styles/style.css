@@ -371,9 +371,7 @@
 
 }
 
-.footer__logo {
-  resize: 16px 20px;
-}
+
 
 .footer__column-heading {
   font-weight: bold;
@@ -399,7 +397,6 @@
 }
 
 .footer__social-icon {
-  resize: 16px 16px;
   margin-right: 10px;
 }
 
