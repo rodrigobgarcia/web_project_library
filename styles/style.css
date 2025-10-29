@@ -7,6 +7,10 @@
   line-height: 20px;
 }
 
+* {
+  scroll-behavior: smooth;
+}
+
 .header {
   display: flex;
   flex-direction: column;
@@ -40,6 +44,11 @@
   color: #000000;
   text-decoration: none;
   font-weight: bold;
+}
+
+.nav__link:hover {
+  color: #057bf2;
+  
 }
 
 .header__content {
